@@ -9,9 +9,9 @@
 
 ### Karte
 
-<iframe src="map.html" height="500" width="500"></iframe>
+<iframe src="ASR.html" height="500" width="500"></iframe>
 
-Die Karte [als eigene Seite](map.html).
+Die Karte [ASR.html](ASR.html).
 
 <a href="https://jpmou.github.io/Altstadtrundgang/index.html#schloss-frauenfeld" target="_parent">mehr Info</a>
 
